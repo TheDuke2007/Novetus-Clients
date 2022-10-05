@@ -1,0 +1,5 @@
+Application Log
+Start: Sat Oct 01 14:52:10 2022
+
+
+**** WARNING: could not create G3DWindow class ****
